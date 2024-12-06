@@ -1,5 +1,6 @@
 # uci-09-servers-apis-national-parks
-<<<<<<< HEAD
+## On Render at https://uci-09-national-parks-api.onrender.com
+
 
 # 🏗️ Module 09 Mini-Project: Complete Fetch Requests for Existing Application
 
@@ -47,5 +48,3 @@ Refer to the documentation:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-=======
->>>>>>> 304be4e4be0ffee45dd0a04ea60fa3e2c61171a1
