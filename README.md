@@ -1,5 +1,4 @@
 # uci-09-servers-apis-national-parks
-<<<<<<< HEAD
 
 # 🏗️ Module 09 Mini-Project: Complete Fetch Requests for Existing Application
 
